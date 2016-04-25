@@ -3,7 +3,7 @@
 Código del Equipo Kylo Ren, participante de CYBERTECH 2016.
 Evento organizado por la asociacion de estudiantes de la  ETSII-UPM, RESET. 
 
-Ganadores Premio Tecnologico y segundo premio en Siguelineas
+Ganadores del Premio Tecnologico y Segundo Premio en la categoria de Siguelineas
 
 Videos promocionales:
 
